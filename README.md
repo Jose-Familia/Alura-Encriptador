@@ -38,7 +38,7 @@ El **Encriptador de Texto** es una aplicación web sencilla que te permite encri
 <img align="left" src="https://github.com/Jose-Familia/Alura-Encriptador/assets/128924389/836ad20f-a41c-4a40-bfbf-b6cb85a7f015)" width="100" />
 
 ```
-Este codigo fue desarrollado como parte del reto #1 
+Este codigo fue desarrollado como solucion del reto #1 
 propuesto por la comunidad de 
 Oracle One | Alura Latam como parte de su formacion Dev en HTML y CSS
 ```
